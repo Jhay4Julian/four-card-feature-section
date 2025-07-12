@@ -1,5 +1,3 @@
-# React + TypeScript + Vite
-
 # Frontend Mentor - Four Card Feature Section Solution
 
 This is a solution to the [Four Card Feature Section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
@@ -8,12 +6,13 @@ This is a solution to the [Four Card Feature Section challenge on Frontend Mento
 
 ## 📸 Screenshot
 
+<img width="1333" height="755" alt="Screenshot 2025-07-12 190650" src="https://github.com/user-attachments/assets/77b8f9c2-c819-4a10-839c-19d9ca507e6d" />
 
 
 ---
 
 ## 🔗 Live Site
-(https://four-card-feature-section-nu-lemon.vercel.app/)
+https://four-card-feature-section-nu-lemon.vercel.app/
 
 ---
 
@@ -58,6 +57,11 @@ npm install
 npm run dev
 
 ```
+---
+## 🙋‍♂️ Author
+GitHub – @Jhay4Julian
+Frontend Mentor – @Jhay4Julian
+
 
 
 
