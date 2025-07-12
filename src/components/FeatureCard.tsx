@@ -8,7 +8,7 @@ type FeatureCardProp = {
 
 const FeatureCard = ({ title, description, icon, color }: FeatureCardProp) => {
     return (
-        <div className=" bg-white rounded-lg drop-shadow-lg flex flex-col w-full max-w-sm overflow-hidden">
+        <div className=" bg-white rounded-lg drop-shadow-lg flex flex-col w-full max-w-sm overflow-hidden transition duration-200 ease-in-out hover:shadow-xl active:scale-95 cursor-pointer">
             <div className={`h-1 ${color ?? 'bg-[#f2545b]'}`}></div>
             <div className="px-10 py-6 flex flex-col justify-between">
                 <div>
