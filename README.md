@@ -60,6 +60,7 @@ npm run dev
 ---
 ## 🙋‍♂️ Author
 GitHub – @Jhay4Julian
+
 Frontend Mentor – @Jhay4Julian
 
 
